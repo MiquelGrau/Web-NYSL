@@ -1,0 +1,7 @@
+green current page: 162 255 21
+grey non selected page: 119 119 119
+greyBand: 235 235 235
+greenBand: 198 217 170
+darkGreyBand: 225 225 225
+blueBand: 102 177 209
+mail background: 185 217 137

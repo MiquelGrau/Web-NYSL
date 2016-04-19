@@ -1,0 +1,162 @@
+#container{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: sans-serif;
+    width: 1024px;
+}
+
+.navegador{
+    list-style-type: none;
+    float: right;
+    margin-right: 10%;
+    margin-top: 62px;
+}
+
+.navegador li{
+   display: inline;
+   text-align: center;
+   margin: 0 30px 0 0;
+}
+
+.pageStyle{
+    color: rgb(119,119,119);
+    text-decoration: none;
+}
+
+.pageStyleCurrent{
+    color: rgb(162,255,21);
+    text-decoration: none;
+}
+
+.imgLogo{
+    margin: 20px 0 15px 10%;
+    float: left;
+}
+
+.titlePhoto{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.title{
+    position: absolute;
+    text-align: center;
+    width: 1024px;
+    top: 270px;
+    font-size: 60px;
+    color: white;
+}
+
+.iconSection{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.greyBand, .greenBand, .darkGreyBand{
+    text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 40px;
+    padding-bottom: 100px;    
+}
+
+.greyBand{
+    background-color: rgb(235,235,235);
+}
+
+.greenBand{
+    background-color: rgb(198,217,170);
+}
+
+.darkGreyBand{
+    background-color: rgb(225,225,225);
+}
+
+.greyBand h3, .greenBand h3, .darkGreyBand h3{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.whiteBand{
+    background-color: rgb(255,255,255);
+    text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+
+.whiteBand table{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    line-height: 2;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.italic{
+    font-style: italic;
+}
+
+.greyBand td, .greyBand th, .darkGreyBand td, .darkGreyBand th {
+    width: 25%;
+    text-align: center;
+}
+
+.phone {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.mail{
+    background-color: rgb(185,217,137);
+    padding: 20px;
+    width: 400px;
+    border-radius: 10px;
+}
+
+.whiteBand .mail{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.blueBand {
+    background-color: rgb(102,177,209);
+    text-align: center;
+    width: 32%;
+    color: white;
+    height: 110px;
+    float: left;
+}
+
+.floatCenter {
+    margin-left: 2%;
+}
+
+.floatRight {
+    float: right;
+}
+
+.greyInput{
+    background: rgb(235,235,235);
+    border: none;
+    height: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.greenInput{
+    background: rgb(185,217,137);
+    border: none;
+    height: 40px;
+    width: 100px;
+    border-radius: 10px;
+    font-weight: bold;
+}
